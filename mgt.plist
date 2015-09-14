@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://36.33.24.15:8091/lrps/static/projects/cpimp_wkjs/apps/LabourersCommunication.ipa-5faada711576419a8975c9eabb374580.ipa</string>
+					<string>http://112.122.7.68:8091/lrps/json/wkjs/version/downFileByVersionCode?versionCode=mgt_ios</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.tydic.mideaer</string>
+				<string>com.tydic.labourerscommunication</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>美人</string>
+				<string>民工通</string>
 			</dict>
 		</dict>
 	</array>
